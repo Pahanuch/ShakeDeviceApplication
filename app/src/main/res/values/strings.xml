@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShakeDeviceApplication</string>
+    <string name="message_spend_some_energy">Please spend some energy</string>
+    <string name="statisctic_menu_action">Statisctic</string>
+</resources>
